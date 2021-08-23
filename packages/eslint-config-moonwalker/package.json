@@ -1,0 +1,48 @@
+{
+  "name": "moonwalkerswap-eslint-config-moonwalker",
+  "version": "1.2.0",
+  "description": "Eslint config for MoonwalkerSwap",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonWalkerJim/Moonwalker-toolkit.git#main"
+  },
+  "license": "MIT",
+  "author": "MoonwalkerJim",
+  "private": false,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/parser": "^4.7.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.2.0",
+    "prettier": "^2.1.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/MoonWalkerJim/Moonwalker-toolkit/issues"
+  },
+  "homepage": "https://github.com/MoonWalkerJim/Moonwalker-toolkit/tree/main#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moonwalkerswap",
+    "eslint",
+    "config"
+  ]
+}
