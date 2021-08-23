@@ -1,7 +1,5 @@
 # 🌙 Moonwalker UIkit
 
-[![Version](https://img.shields.io/npm/v/@moonwalkerswap-libs/uikit)](https://www.npmjs.com/package/@moonwalkerswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@moonwalkerswap-libs/uikit)](https://www.npmjs.com/package/@moonwalkerswap-libs/uikit)
-
 Moonwalker UIkit is a set of React components and hooks used to build pages on Moonwalker's apps. It also contains a theme file for dark and light mode.
 
 ## Install
